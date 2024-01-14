@@ -14,4 +14,4 @@ Output
 
    simple interest = p*t*r
 
-   <footer>2024 XYZ, Inc.</footer>
+   <footer><h1>2024 XYZ, Inc.</h1></footer>
