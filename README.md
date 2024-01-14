@@ -13,5 +13,5 @@ Input:
 Output
 
    simple interest = p*t*r
-
-   <footer><h1>2023 XYZ, Inc.</h1></footer>
+   
+   <footer><h1>2022 XYZ, Inc.</h1></footer>
